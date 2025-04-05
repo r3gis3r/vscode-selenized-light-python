@@ -1,49 +1,52 @@
 {
-  "name": "cold-python-theme",
-  "displayName": "Cold Python Theme",
-  "description": "PyCharm inspired dark theme with icons and JetBrains Mono font",
-  "version": "1.14.1",
-  "license": "MIT",
-  "publisher": "nparamonov",
-  "repository": "https://github.com/nparamonov/vscode-cold-python-theme",
-  "icon": "img/icon.png",
-  "engines": {
-    "vscode": "^1.21.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "keywords": [
-    "python",
-    "go",
-    "golang",
-    "semantic",
-    "highlighting",
-    "cold",
-    "light",
-    "selenized",
-    "pycharm",
-    "IntelliJ",
-    "New UI",
-    "icons",
-    "PyCharm",
-    "font",
-    "Goland"
-],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Selenized Light Python Theme",
-        "uiTheme": "vs",
-        "path": "./themes/selenized-light-python-color-theme.json"
-      }
-    ],
-    "iconThemes": [
-      {
-        "id": "selenized-light-python-icon-theme",
-        "label": "Selenized Light Python Theme: Icons, JetBrains Mono font",
-        "path": "./themes/selenized-light-python-icon-theme.json"
-      }
-    ]
-  }
+	"name": "vscode-selenized-light-theme",
+	"displayName": "Selenized Light Python Theme",
+	"description": "PyCharm inspired dark theme with icons and JetBrains Mono font",
+	"version": "1.15.0",
+	"license": "MIT",
+	"publisher": "r3gis3r",
+	"repository": "https://github.com/r3gis3r/vscode-selenized-light-python",
+	"icon": "img/icon.png",
+	"engines": {
+		"vscode": "^1.21.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"python",
+		"go",
+		"golang",
+		"semantic",
+		"highlighting",
+		"cold",
+		"light",
+		"selenized",
+		"pycharm",
+		"IntelliJ",
+		"New UI",
+		"icons",
+		"PyCharm",
+		"font",
+		"Goland"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Selenized Light Python Theme",
+				"uiTheme": "vs",
+				"path": "./themes/selenized-light-python-color-theme.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "selenized-light-python-icon-theme",
+				"label": "Selenized Light Python Theme: Icons, JetBrains Mono font",
+				"path": "./themes/selenized-light-python-icon-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"size": 2473945
+	}
 }

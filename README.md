@@ -1,13 +1,14 @@
-# Cold Python Theme for VS Code
+# Selenized Light Python Theme for VS Code
 
-The goal of the Cold Python Theme is to reduce visual clutter and give you more space for your code and thoughts.
+The goal of the Selenized Light Theme is to have a good light theme for VSCode inspired by PyCharm themes.   
+For text, unlike for video, white background is better for my eyes, that's why this theme will remain light theme.  
 
-<p align="center">
-    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/v/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=VERSION" alt="Version"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/r/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=RATING" alt="Rating"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/i/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=Installs" alt="INSTALLS"></a>&nbsp;
-    <a href="https://marketplace.visualstudio.com/items?itemName=nparamonov.cold-python-theme"><img src="https://img.shields.io/visual-studio-marketplace/d/nparamonov.cold-python-theme?style=for-the-badge&colorA=555555&colorB=007ec6&label=Downloads" alt="DOWNLOADS"></a>
-</p>
+Inspired from nparamonov great Cold Python theme.    
+
+WIP 
+
+
+FROM OLD REPO -- to be adapted in the future :   
 
 ![example](https://raw.githubusercontent.com/nparamonov/vscode-cold-python-theme/main/img/example.png)
 

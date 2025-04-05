@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.15.0
+
+- First fork version (no aim to resync to make this theme light using Selenized)
+
 ## 1.14.1
 
 - Update dart syntax colors
