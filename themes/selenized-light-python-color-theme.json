@@ -118,7 +118,7 @@
 		"menu.background": "#ffffff",
 
 		"list.hoverBackground": "#f5f8fe",
-		"list.inactiveSelectionBackground": "#f5f8fe",
+		"list.inactiveSelectionBackground": "#a6d2ffee",
 		"list.activeSelectionForeground": "#000000",
 		"list.activeSelectionBackground": "#d4e2ff",
 		"list.focusOutline": "#e4e6eb",
@@ -174,12 +174,12 @@
 		"editorInfo.foreground": "#174ad4",
 
 		"editor.findMatchBackground": "#a6d2ff",
-		"editor.findMatchHighlightBackground": "#ffc800ee",
 		"editor.findMatchBorder": "#174ad4",
-		"editor.findMatchHighlightBorder": "#174ad4",
+		"editor.findMatchHighlightBackground": "#ffc80055",
+		"editor.findMatchHighlightBorder": "#ffc800",
 		"editor.selectionHighlightBackground": "#a6d2ffee",
-		"editor.inactiveSelectionBackground": "#a6d2ffee",
-		"editor.wordHighlightBackground": "#edebfcbb",
+		"editor.selectionHighlightBorder": "#a6d2ff33",
+		"editor.wordHighlightBackground": "#edebfc88",
 
 		"editorBracketMatch.background": "#93d9d9",
 		"editorBracketHighlight.foreground1": "#000000",
