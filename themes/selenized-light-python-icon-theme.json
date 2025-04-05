@@ -11,6 +11,18 @@
 		  "weight": "normal",
 		  "style": "normal",
 		  "size": "100%"
+		},
+		{
+			"id": "Inter",
+			"src": [
+				{
+					"path": "./fonts/Inter-Regular.woff2",
+					"format": "woff2"
+				}
+			],
+			"weight": "normal",
+			"style": "normal",
+			"size": "100%"
 		}
 	],
 	"iconDefinitions": {

@@ -20,17 +20,12 @@
     "semantic",
     "highlighting",
     "cold",
-    "dark",
-    "darcula",
-    "darkula",
-    "dracula",
-    "drakula",
+    "light",
+    "selenized",
     "pycharm",
     "IntelliJ",
     "New UI",
     "icons",
-    "JetBrains",
-    "JetBrains Mono",
     "PyCharm",
     "font",
     "Goland"
@@ -38,16 +33,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cold Python Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/cold-python-color-theme.json"
+        "label": "Selenized Light Python Theme",
+        "uiTheme": "vs",
+        "path": "./themes/selenized-light-python-color-theme.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "cold-python-dark-icon-theme",
-        "label": "Cold Python Theme: Icons, JetBrains Mono font",
-        "path": "./themes/cold-python-icon-theme.json"
+        "id": "selenized-light-python-icon-theme",
+        "label": "Selenized Light Python Theme: Icons, JetBrains Mono font",
+        "path": "./themes/selenized-light-python-icon-theme.json"
       }
     ]
   }
