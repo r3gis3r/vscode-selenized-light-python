@@ -53,8 +53,8 @@
 		"debugConsole.sourceForeground": "#174ad4",
 
 		"tab.border": "#FFFFFF00",
-		"tab.hoverBackground": "#f5f8fe",
-		"tab.hoverForeground": "#174ad4",
+		"tab.hoverBackground": "#fdfdfd",
+		"tab.hoverForeground": "#000000",
 		"tab.unfocusedHoverBackground": "#f5f5f5",
 		"tab.activeBorder": "#3574f0",
 		"tab.activeBackground": "#ffffff",
