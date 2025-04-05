@@ -260,7 +260,10 @@
 			}
 		},
 		{
-			"scope": "constant.numeric",
+			"scope": [
+				"constant.numeric",
+				"constant.language.json"
+			],
 			"settings": {
 				"foreground": "#1750eb"
 			}
@@ -479,6 +482,20 @@
 			],
 			"settings": {
 				"foreground": "#174be6"
+			}
+		},
+		{
+			"name": "JSON property names",
+			"scope": "meta.structure.dictionary.json support.type.property-name.json",
+			"settings": {
+				"foreground": "#871094"
+			}
+		},
+		{
+			"name": "JSON strings",
+			"scope": "meta.structure.dictionary.json string.quoted.double.json",
+			"settings": {
+				"foreground": "#067d17"
 			}
 		},
 		{
