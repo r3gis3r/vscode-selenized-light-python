@@ -309,6 +309,9 @@
 				"variable.parameter.function.language.special",
 				"constant.keyword",
 				"meta.var storage.type",
+				"variable.other.object.property.js",
+				"variable.other.property.js",
+				"meta.object-literal.key.js",
 			],
 			"settings": {
 				"foreground": "#871094"
@@ -324,14 +327,16 @@
 		},
 		{
 			"scope": [
-				"source.python constant.language",
-				"source.python constant.character.escape",
-				"source.python keyword.operator.logical",
-				"source.python meta.function storage.type.function ",
-				"source.python meta.class storage.type.class",
-				"source.python keyword.control.flow",
-				"source.python keyword.control.import",
-				"source.python storage.modifier",
+				"constant.language",
+				"constant.character.escape",
+				"keyword.operator.logical",
+				"meta.function storage.type.function ",
+				"meta.class storage.type.class",
+				"meta.var storage.type",
+				"keyword.control.flow",
+				"keyword.control.import",
+				"keyword.control.export",
+				"storage.modifier",
 				"support.function.builtin.python"
 			],
 			"settings": {
@@ -425,6 +430,7 @@
 			"scope": [
 				"source.python string.quoted",
 				"source.python storage.type.format",
+				"source.js string.template.js"
 			],
 			"settings": {
 				"foreground": "#067d17"
@@ -458,6 +464,35 @@
 			"settings": {
 				"foreground": "#CC0000",
 				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "JS variables",
+			"scope": [
+				"variable.other.object.js",
+				"meta.definition.variable.js",
+				"variable.other.readwrite.js"
+			],
+			"settings": {
+				"foreground": "#2a8c7c"
+			}
+		},
+		{
+			"name": "JS params",
+			"scope": [
+				"variable.parameter.js",
+			],
+			"settings": {
+				"foreground": "#000000",
+				"fontStyle": "underline"
+			}
+		},
+		{
+			"scope": [
+				"entity.name.function.js",
+			],
+			"settings": {
+				"fontStyle": "italic"
 			}
 		},
 		{
